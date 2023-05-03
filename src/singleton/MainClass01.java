@@ -15,9 +15,6 @@ class A01{
 }
 
 public class MainClass01 {
-	
-	
-	
 	public static void main(String[] args) {
 		A01 a = new A01();
 		A01 a1 = new A01();
